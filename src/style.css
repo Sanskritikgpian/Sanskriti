@@ -1,0 +1,28 @@
+body{
+    width:100%;
+    background-color:black;
+}
+.newcol{
+    border-style: solid;
+    border-width: medium;
+    border-color: rgb(247, 244, 240);
+    
+}
+
+.colu{
+    background-color: white;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color:white;
+}
+
+p{
+    color:wheat;
+}
+
+
